@@ -194,6 +194,8 @@ GEM
     rdoc (3.12.2)
       json (~> 1.4)
     ref (1.0.5)
+    rename (1.0.0)
+      rails (>= 3.0.0)
     rspec (2.12.0)
       rspec-core (~> 2.12.0)
       rspec-expectations (~> 2.12.0)
@@ -310,6 +312,7 @@ DEPENDENCIES
   rails (~> 3.2.13)
   rake (~> 10.0.0)
   rb-fsevent (~> 0.9.1)
+  rename
   rspec-rails (~> 2.12.0)
   ruby_gntp
   sass-rails (~> 3.2.3)

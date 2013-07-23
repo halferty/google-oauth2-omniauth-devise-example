@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Csr2::Application.load_tasks
+GoogleAuthExample::Application.load_tasks

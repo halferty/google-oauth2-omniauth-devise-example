@@ -4,6 +4,7 @@ gem 'sqlite3', '~> 1.3.7'
 gem 'rake', '~> 10.0.0'
 gem 'rails', '~> 3.2.13'
 gem 'jquery-rails', '~> 2.3.0'
+gem 'rename'
 
 # TeamworkPM API calls
 gem 'faraday', '~> 0.8.0'

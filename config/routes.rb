@@ -1,4 +1,4 @@
-Csr2::Application.routes.draw do
+GoogleAuthExample::Application.routes.draw do
   get "welcome/index"
 
   devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
